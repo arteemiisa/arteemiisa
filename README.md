@@ -1,7 +1,7 @@
 ![Header](./github-header.png)
 
 # 👩‍💻 Laia Huerga 
-### 💣 Cybersecurity Analyst & Educator | Ethical Hacker | CTF Enthusiast
+### 💣 Backend Engineer Golang
 
 ---
 
@@ -36,8 +36,8 @@ Tengo experiencia trabajando con **arquitecturas modernas**, despliegues en la n
 ---
 
 ## 📫 Conecta conmigo
-- 💼 [LinkedIn](https://www.linkedin.com/in/TU-LINKEDIN)  
-- 📧 tu.email@ejemplo.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/laia-huerga)
+- 📧 l.huerga3@gmail.com 
 
 ---
 ✨ Gracias por visitar mi perfil. ¡Siempre abierta a nuevos desafíos y oportunidades! 🚀
