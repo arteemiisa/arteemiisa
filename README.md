@@ -1,4 +1,4 @@
-# 👩‍💻 ¡Hola! Soy [Tu Nombre]  
+# 👩‍💻 Laia Huerga  
 
 Soy **desarrolladora de software** apasionada por crear soluciones escalables, seguras y bien diseñadas.  
 Tengo experiencia trabajando con **arquitecturas modernas**, despliegues en la nube y el ciclo de vida completo de aplicaciones backend.  
