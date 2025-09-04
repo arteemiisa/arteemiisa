@@ -1,4 +1,9 @@
-# 👩‍💻 Laia Huerga  
+![Header](./github-header.png)
+
+# 👩‍💻 Laia Huerga 
+### 💣 Cybersecurity Analyst & Educator | Ethical Hacker | CTF Enthusiast
+
+---
 
 Soy **desarrolladora de software** apasionada por crear soluciones escalables, seguras y bien diseñadas.  
 Tengo experiencia trabajando con **arquitecturas modernas**, despliegues en la nube y el ciclo de vida completo de aplicaciones backend.  
