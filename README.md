@@ -30,8 +30,8 @@ Tengo experiencia trabajando con **arquitecturas modernas**, despliegues en la n
 ---
 
 ## 📊 GitHub Stats
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight)  
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=arteemiisa&show_icons=true&theme=tokyonight)  
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=arteemiisa&layout=compact&theme=tokyonight)  
 
 ---
 
