@@ -1,4 +1,4 @@
-![Header](./github-header.png)
+[![Header](./github-header.png)](url)
 
 # 👩‍💻 Laia Huerga 
 ### 💣 Backend Engineer Golang
@@ -13,7 +13,7 @@ Tengo experiencia trabajando con **arquitecturas modernas**, despliegues en la n
 ## 🚀 Tecnologías y Herramientas
 
 - **Lenguajes:** Go (principal), experiencia con SQL/NoSQL  
-- **Bases de datos:** PostgreSQL, MongoDB  
+- **Bases de datos:** PostgreSQL, MongoDB, DynamoDB  
 - **Infraestructura & DevOps:** Kubernetes, CI/CD, Pipelines, Deployments automatizados  
 - **Arquitectura:** Hexagonal, REST APIs, Microservicios  
 - **Observabilidad & Seguridad:** ElasticSearch, Wazuh  
@@ -21,11 +21,13 @@ Tengo experiencia trabajando con **arquitecturas modernas**, despliegues en la n
 
 ---
 
-## 🌟 Lo que me motiva
-✔ Diseñar sistemas mantenibles y escalables  
-✔ Mejorar procesos de despliegue con prácticas DevOps  
-✔ Aprender y aplicar nuevas tecnologías  
-✔ Colaborar en equipos multidisciplinarios  
+## 📌 Qué valoro en mi trabajo
+
+✔ Diseñar sistemas **mantenibles, escalables y seguros**  
+✔ Introducir y mejorar **procesos de automatización y despliegue**  
+✔ Revisar código con criterio, buscando la **calidad por encima de la velocidad**  
+✔ Aprender y compartir conocimiento con mi equipo  
+✔ Enfrentar problemas técnicos con un enfoque pragmático  
 
 ---
 
@@ -40,4 +42,4 @@ Tengo experiencia trabajando con **arquitecturas modernas**, despliegues en la n
 - 📧 l.huerga3@gmail.com 
 
 ---
-✨ Gracias por visitar mi perfil. ¡Siempre abierta a nuevos desafíos y oportunidades! 🚀
+💡 Creo en la importancia de la calidad técnica, la colaboración y la mejora continua. Estoy abierta a proyectos y oportunidades donde pueda aportar impacto real.
