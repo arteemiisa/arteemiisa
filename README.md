@@ -1,5 +1,3 @@
-[![Header](./github-header.png)](url)
-
 # 👩‍💻 Laia Huerga 
 ### 💣 Backend Engineer Golang
 
